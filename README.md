@@ -1,5 +1,5 @@
-# Exemple_1
-1er exemple de repository
+# Quizz Python
+First exemple of a quizz in python 
 
-
-Ceci n'est qu'un test, veuillez ne pas en prendre compte ;) 
+## How does it work ?
+You just need to fill in your questions and answers, execute the file and you're ready to take the quizz
